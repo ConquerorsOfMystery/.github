@@ -1,5 +1,7 @@
 # The Conquerors of Mystery
 
+Due to actions by Github, please see our home on Codeberg: https://codeberg.org/Conquerors_Of_Mystery
+
 Christian Public domain software initiative.
 
 "So that thou incline thine ear unto wisdom, and apply thine heart to understanding;" - Prov 2:2
