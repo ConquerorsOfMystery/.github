@@ -1,12 +1,7 @@
 # The Conquerors of Mystery
 
-<!--
+Christian Public domain software initiative started by David MHS Webster
 
-**Here are some ideas to get you started:**
+"So that thou incline thine ear unto wisdom, and apply thine heart to understanding;" - Prov 2:2
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
